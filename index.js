@@ -24,8 +24,8 @@ import fetch from 'node-fetch';
 
 // Bot configuration
 const CONFIG = {
-    OWNER_IDS: [7110319203, 6991929801],
-    DEVELOPER_IDS: [7110319203, 6991929801],
+    OWNER_IDS: [6165739911, 6991929801],
+    DEVELOPER_IDS: [6165739911, 6991929801],
     FILES: {
         PREMIUM_USERS: './premium.json',
         BLACKLIST: './blacklist.json'
@@ -39,7 +39,7 @@ const CONFIG = {
 
 // Rest of the imports and configurations remain the same...
 const tokens = [
-    '7704689642:AAG91J4X7g3yuf5ZKRHGOhgQ1ernnMnvx-Q',
+    '7130501042:AAFiZCNR9GqioRtX1hq76d1T4Tlc8xbdxdQ',
 ];
 
 // Initialize bots
